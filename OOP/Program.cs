@@ -6,7 +6,7 @@ namespace OOP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Github Test");
+            Console.WriteLine("Github Test from GIT3321");
         }
     }
 }
